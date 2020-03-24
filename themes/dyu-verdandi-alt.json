@@ -251,7 +251,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "bold",
 				"foreground": "#212529"
 			}
 		},
