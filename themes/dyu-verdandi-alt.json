@@ -450,8 +450,8 @@
 				"support.constant"
 			],
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#212529"
+				"fontStyle": "bold",
+				"foreground": "#555"
 			}
 		},
 		{
