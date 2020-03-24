@@ -3,7 +3,7 @@
 	"name": "dyu-gh",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f8f9fa",
+		"editor.background": "#F8F8FF",
 		"editor.foreground": "#333333",
 		"editorLineNumber.foreground": "#ccc",
 		"editor.lineHighlightBackground": "#ecebeb",
