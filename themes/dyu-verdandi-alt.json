@@ -258,7 +258,6 @@
 		{
 			"name": "Punctuation",
 			"scope": [
-				"punctuation",
 				"delimiter",
 				"bracket",
 				"brace",
@@ -300,6 +299,7 @@
 				"support.constant.property-value.string",
 				"meta.structure.dictionary.value.json string.quoted.double.json",
 				"meta.structure.dictionary.json string.quoted.double.json",
+				"meta.preprocessor.string",
 				"meta.preprocessor string"
 			],
 			"settings": {
