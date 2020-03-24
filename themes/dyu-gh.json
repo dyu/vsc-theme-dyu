@@ -116,11 +116,19 @@
 			"scope": [
 				"support.class",
 				"entity.name.type",
-				"support.constant.math",
-				"constant.numeric"
+				"support.constant.math"
 			],
 			"settings": {
 				"foreground": "#2E7D32"
+			}
+		},
+		{
+			"name": "numerics",
+			"scope": [
+				"constant.numeric"
+			],
+			"settings": {
+				"foreground": "#646464"
 			}
 		},
 		{
