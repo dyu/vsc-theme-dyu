@@ -342,6 +342,15 @@
 			}
 		},
 		{
+			"name": "Primitive props",
+			"scope": [
+				"support.variable.property"
+			],
+			"settings": {
+                "foreground": "#0000C0"
+			}
+		},
+		{
 			"name": "Functions",
 			"scope": [
 				"entity.name.function",
