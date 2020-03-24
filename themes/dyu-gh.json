@@ -103,11 +103,11 @@
 			"scope": [
 				"support.constant",
 				"variable.language",
-				"constant.numeric",
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#2E7D32"
+				"foreground": "#333",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -116,6 +116,7 @@
 				"support.class",
 				"entity.name.type",
 				"support.constant.math",
+				"constant.numeric"
 			],
 			"settings": {
 				"foreground": "#2E7D32"
