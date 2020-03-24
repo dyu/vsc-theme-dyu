@@ -242,7 +242,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#939ba4"
+				"foreground": "#999988"
 			}
 		},
 		{
@@ -327,7 +327,6 @@
 			"scope": [
 				"constant.character",
 				"constant.other",
-				"entity.name.function",
 				"entity.name.class",
 				"entity.other.inherited-class",
 				"entity.other.attribute-name",
@@ -341,6 +340,18 @@
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#212529"
+			}
+		},
+		{
+			"name": "Functions and Tags",
+			"scope": [
+				"entity.name.function",
+				"entity.name.tag",
+				"punctuation.definition.tag"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#445588"
 			}
 		},
 		{
@@ -375,8 +386,7 @@
 				"storage.type.const.ts",
 				"storage.type.let.ts",
 				"storage.type.let.js",
-				"storage.type.const.js",
-				"entity.name.tag"
+				"storage.type.const.js"
 			],
 			"settings": {
 				"fontStyle": "bold",
