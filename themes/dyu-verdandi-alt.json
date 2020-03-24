@@ -310,16 +310,24 @@
 		{
 			"name": "Primitive Literals",
 			"scope": [
-				"constant.numeric",
-				"meta.property-value.numeric",
-				"support.constant.property-value.numeric",
 				"meta.property-value.color",
-				"support.constant.property-value.color",
-				"constant.language"
+				"support.constant.property-value.color"
 			],
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#212529"
+			}
+		},
+		{
+			"name": "Numerics",
+			"scope": [
+				"constant.numeric",
+				"meta.property-value.numeric",
+				"support.constant.property-value.numeric"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#2E7D32"
 			}
 		},
 		{
@@ -349,6 +357,16 @@
 			"settings": {
 				"foreground": "#555",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Primitive constants",
+			"scope": [
+				"constant.language"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#555"
 			}
 		},
 		{
