@@ -334,8 +334,7 @@
 				"entity.other.attribute-name",
 				"entity.other.attribute-name.html",
 				"support.type.property-name",
-				"entity.name.tag.table",
-				"meta.structure.dictionary.json string.quoted.double.json"
+				"entity.name.tag.table"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -347,6 +346,9 @@
 			"scope": [
 				"entity.name.function",
 				"entity.name.tag",
+				"support.function",
+				"meta.structure.dictionary.json string.quoted.double.json",
+				"support.type.property-name.json",
 				"punctuation.definition.tag"
 			],
 			"settings": {
