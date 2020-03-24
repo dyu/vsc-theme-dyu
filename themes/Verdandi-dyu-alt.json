@@ -72,8 +72,8 @@
 		"focusBorder": "#329af0",
 		"foreground": "#51575e",
 		"errorForeground": "#fb5a5a",
-		"editor.background": "#f8f9fa",
-		"editor.foreground": "#51575e",
+		"editor.background": "#F8F8FF",
+		"editor.foreground": "#333333",
 		"editor.lineHighlightBackground": "#e9ecee",
 		"editorCursor.foreground": "#329af0",
 		"editorLineNumber.foreground": "#adb5bd",
@@ -171,7 +171,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#939ba4"
+				"foreground": "#999988"
 			}
 		},
 		{
