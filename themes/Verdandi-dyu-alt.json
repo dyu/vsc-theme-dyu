@@ -303,8 +303,8 @@
 				"meta.preprocessor string"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#727981"
+				"fontStyle": "",
+				"foreground": "#C03030"
 			}
 		},
 		{
