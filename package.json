@@ -16,6 +16,11 @@
 				"label": "Verdandi-dyu",
 				"uiTheme": "vs",
 				"path": "./themes/Verdandi-dyu.json"
+			},
+			{
+				"label": "Verdandi-dyu-alt",
+				"uiTheme": "vs",
+				"path": "./themes/Verdandi-dyu-alt.json"
 			}
 		]
 	},
