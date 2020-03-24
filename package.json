@@ -1,0 +1,25 @@
+{
+	"name": "vsc-theme-dyu",
+	"displayName": "vsc-theme-dyu",
+	"description": "Modified vsc-theme-verdandi theme.",
+	"publisher": "dyu",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Verdandi-dyu",
+				"uiTheme": "vs",
+				"path": "./themes/Verdandi-dyu.json"
+			}
+		]
+	},
+	"dependencies": {
+		"vsce": "^1.66.0"
+	},
+}
