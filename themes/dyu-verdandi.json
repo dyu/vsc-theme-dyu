@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Verdandi",
+	"name": "dyu-verdandi",
 	"palette": {
 		"gray": [
 			"#f8f9fa",
