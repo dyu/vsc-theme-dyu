@@ -21,6 +21,16 @@
 				"label": "dyu-verdandi-alt",
 				"uiTheme": "vs",
 				"path": "./themes/dyu-verdandi-alt.json"
+			},
+			{
+				"label": "dyu-gh",
+				"uiTheme": "vs",
+				"path": "./themes/dyu-gh.json"
+			},
+			{
+				"label": "dyu-ghc",
+				"uiTheme": "vs",
+				"path": "./themes/dyu-ghc.json"
 			}
 		]
 	},
