@@ -111,7 +111,7 @@
 		"focusBorder": "#329af0",
 		"foreground": "#51575e",
 		"errorForeground": "#ee5656",
-		"editor.background": "#f8f9fa",
+		"editor.background": "#F8F8FF",
 		"editor.foreground": "#51575e",
 		"editor.lineHighlightBackground": "#e9ecee",
 		"editorCursor.foreground": "#329af0",
