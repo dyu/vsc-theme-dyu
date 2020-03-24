@@ -148,7 +148,6 @@
 			"scope": [
 				"keyword.other.class.php",
 				"meta.use support.class",
-				"meta.function-call entity.name.function"
 			],
 			"settings": {
 				"foreground": "#000"
@@ -266,6 +265,7 @@
 				"punctuation.definition.tag.end.html",
 				"constant.character.entity",
 				"entity.name.function",
+				"meta.function-call entity.name.function",
 				"punctuation.definition.entity"
 			],
 			"settings": {
