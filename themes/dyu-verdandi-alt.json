@@ -342,6 +342,16 @@
 			}
 		},
 		{
+			"name": "Language this",
+			"scope": [
+				"variable.language.this"
+			],
+			"settings": {
+				"foreground": "#212529",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Primitive props",
 			"scope": [
 				"support.variable.property"
