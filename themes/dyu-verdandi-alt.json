@@ -342,17 +342,26 @@
 			}
 		},
 		{
-			"name": "Functions and Tags",
+			"name": "Functions",
 			"scope": [
 				"entity.name.function",
-				"entity.name.tag",
 				"support.function",
 				"meta.structure.dictionary.json string.quoted.double.json",
-				"support.type.property-name.json",
-				"punctuation.definition.tag"
+				"support.type.property-name.json"
 			],
 			"settings": {
 				"fontStyle": "",
+				"foreground": "#445588"
+			}
+		},
+		{
+			"name": "Tags",
+			"scope": [
+				"entity.name.tag",
+				"punctuation.definition.tag"
+			],
+			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#445588"
 			}
 		},
