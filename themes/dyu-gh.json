@@ -434,7 +434,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#07a"
+				"foreground": "#445588"
 			}
 		},
 		{
@@ -443,7 +443,7 @@
 				"string.quoted.double.json"
 			],
 			"settings": {
-				"foreground": "#333"
+				"foreground": "#C03030"
 			}
 		},
 
