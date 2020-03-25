@@ -398,7 +398,7 @@
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "",
 				"foreground": "#445588"
 			}
 		},
