@@ -463,7 +463,6 @@
 			"name": "Library",
 			"scope": [
 				"support.type",
-				"support.function",
 				"support.constant"
 			],
 			"settings": {
