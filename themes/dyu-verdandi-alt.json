@@ -463,13 +463,23 @@
 			"name": "Library",
 			"scope": [
 				"support.type",
-				"support.class",
 				"support.function",
 				"support.constant"
 			],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#555"
+			}
+		},
+		{
+			"name": "UDT",
+			"scope": [
+			    "support.class",
+				"entity.name.type"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#212529"
 			}
 		},
 		{
