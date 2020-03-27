@@ -419,7 +419,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#333"
+				"foreground": "#505050"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#333"
+				"foreground": "#505050"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#212529"
+				"foreground": "#111"
 			}
 		},
 		{
