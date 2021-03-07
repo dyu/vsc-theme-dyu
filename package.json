@@ -33,8 +33,5 @@
 				"path": "./themes/dyu-ghc.json"
 			}
 		]
-	},
-	"dependencies": {
-		"vsce": "^1.66.0"
-	},
+	}
 }
