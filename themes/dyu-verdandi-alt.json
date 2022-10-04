@@ -158,8 +158,8 @@
 		"editorOverviewRuler.infoForeground": "#329af0",
 		"editorOverviewRuler.warningForeground": "#df7b39",
 		"editorOverviewRuler.errorForeground": "#f56767",
-		"diffEditor.removedTextBackground": "#f5676726",
-		"diffEditor.insertedTextBackground": "#41a9521a",
+		"diffEditor.removedTextBackground": "#FFDDDDFF",
+		"diffEditor.insertedTextBackground": "#CCFFCCFF",
 		"sideBarTitle.foreground": "#212529",
 		"sideBar.background": "#e9ecee",
 		"sideBarSectionHeader.background": "#cfd4d9",
@@ -603,6 +603,46 @@
 				"fontStyle": "",
 				"foreground": "#212529"
 			}
-		}
+		},
+        {
+            "name": "diff: fg",
+            "scope": "meta.diff",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#0F8787"
+            }
+        },
+        {
+            "name": "diff: header",
+            "scope": "meta.diff.header",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#333333"
+            }
+        },
+        {
+            "name": "diff: deleted",
+            "scope": "markup.deleted",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#DC322F"
+            }
+        },
+        {
+            "name": "diff: changed",
+            "scope": "markup.changed",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#C03030"
+            }
+        },
+        {
+            "name": "diff: inserted",
+            "scope": "markup.inserted",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#458F00"
+            }
+        }
 	]
 }
