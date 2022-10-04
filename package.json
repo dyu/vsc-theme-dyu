@@ -13,14 +13,19 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "dyu-verdandi",
+				"label": "dyu-bwa",
 				"uiTheme": "vs",
-				"path": "./themes/dyu-verdandi.json"
+				"path": "./themes/dyu-bwa.json"
 			},
 			{
 				"label": "dyu-verdandi-alt",
 				"uiTheme": "vs",
 				"path": "./themes/dyu-verdandi-alt.json"
+			},
+			{
+				"label": "dyu-verdandi",
+				"uiTheme": "vs",
+				"path": "./themes/dyu-verdandi.json"
 			},
 			{
 				"label": "dyu-gh",
