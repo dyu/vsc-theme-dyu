@@ -13,6 +13,11 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "dyu-nord",
+				"uiTheme": "vs",
+				"path": "./themes/dyu-nord.json"
+			},
+			{
 				"label": "dyu-bwa",
 				"uiTheme": "vs",
 				"path": "./themes/dyu-bwa.json"
