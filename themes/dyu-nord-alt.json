@@ -344,14 +344,14 @@
       "name": "Constant Character",
       "scope": "constant.character",
       "settings": {
-        "foreground": "#a3be8c"
+        "foreground": "#EBCB8B"
       }
     },
     {
       "name": "Constant Character Escape",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#a3be8c"
+        "foreground": "#EBCB8B"
       }
     },
     {
@@ -373,7 +373,7 @@
       "name": "Constant Regexp",
       "scope": "constant.regexp",
       "settings": {
-        "foreground": "#a3be8c"
+        "foreground": "#EBCB8B"
       }
     },
     {
@@ -387,7 +387,7 @@
       "name": "Entity Name Function",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#EBCB8B"
+        "foreground": "#88C0D0"
       }
     },
     {
@@ -569,7 +569,7 @@
       "name": "String Regexp",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#a3be8c"
+        "foreground": "#EBCB8B"
       }
     },
     {
