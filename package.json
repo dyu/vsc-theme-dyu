@@ -18,6 +18,11 @@
 				"path": "./themes/dyu-nord.json"
 			},
 			{
+				"label": "dyu-nord-alt",
+				"uiTheme": "vs",
+				"path": "./themes/dyu-nord-alt.json"
+			},
+			{
 				"label": "dyu-bwa",
 				"uiTheme": "vs",
 				"path": "./themes/dyu-bwa.json"
