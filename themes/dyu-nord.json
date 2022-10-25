@@ -483,6 +483,7 @@
         "foreground": "#5E81AC"
       }
     },
+    /* quotes same color as its content (string)
     {
       "name": "Punctuation",
       "scope": "punctuation",
@@ -490,6 +491,7 @@
         "foreground": "#ECEFF4"
       }
     },
+    */
     {
       "name": "Punctuation Definition Parameters",
       "scope": [
