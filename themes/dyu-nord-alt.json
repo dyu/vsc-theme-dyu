@@ -157,8 +157,8 @@
     "keybindingLabel.border": "#4c566a",
     "keybindingLabel.bottomBorder": "#4c566a",
     "keybindingLabel.foreground": "#d8dee9",
-    // charts.blue darkened by 20%
-    "list.activeSelectionBackground": "#4e6e8e",
+    // charts.blue darkened by 25%
+    "list.activeSelectionBackground": "#416181",
     "list.activeSelectionForeground": "#d8dee9",
     "list.inactiveSelectionBackground": "#434c5e",
     "list.inactiveSelectionForeground": "#d8dee9",
